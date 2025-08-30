@@ -1,6 +1,6 @@
 💱 currency_converter_app
 
-🔑 Key Features:
+Key Features:
 
 🌍 Live currency conversion using real-time exchange rates powered by Open Exchange API
 
@@ -11,3 +11,5 @@
 ✨ Clean and beautiful UI designed with Flutter’s widget system
 
 📲 Fully dynamic dropdowns for seamless currency selection
+
+whatch a demo video on linkedin: https://www.linkedin.com/posts/abhinav-sharma-314319327_flutter-dart-currencyconverter-activity-7365229253908471808-B4js?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFJzY4ABokuOV1bS8C6y6y1n7ErKmfl6koU
